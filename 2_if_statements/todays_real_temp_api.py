@@ -1,6 +1,14 @@
 """
 The companion to the temperature.py program, but this version
 asks weather.gov what today's temperature is, instead of asking the user.
+
+if you are a mac user, you might see an error message relating to certificates.
+To fix, you'll need to open a terminal and type
+
+pip install certifi
+/Applications/Python\ 3.7/Install\ Certificates.command
+
+And then try running this program again.
 """
 
 
