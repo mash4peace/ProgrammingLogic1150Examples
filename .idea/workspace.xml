@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c38fbbc-6e27-421f-a728-4e30b1851415" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2_if_statements/class_requirements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_if_statements/password_not_equal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_loops/am_i_online.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_loops/hello_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_loops/while_true.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_if_statements/todays_real_temp_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_if_statements/todays_real_temp_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/full_time_part_time_student.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_if_statements/full_time_part_time_student.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,16 +21,19 @@
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$quiz.coverage" NAME="quiz Coverage Results" MODIFIED="1547584603041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$favorite_food.coverage" NAME="favorite_food Coverage Results" MODIFIED="1546539045834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_variables" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1546788678372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
-    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$full_time_part_time_student.coverage" NAME="full_time_part_time_student Coverage Results" MODIFIED="1547581950246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$full_time_part_time_student.coverage" NAME="full_time_part_time_student Coverage Results" MODIFIED="1547604773324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$hello_input.coverage" NAME="hello_input Coverage Results" MODIFIED="1546539553962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_variables" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$shipping_price.coverage" NAME="shipping_price Coverage Results" MODIFIED="1547582405708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$todays_real_temp_api.coverage" NAME="todays_real_temp_api Coverage Results" MODIFIED="1547583910879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$input_numbers.coverage" NAME="input_numbers Coverage Results" MODIFIED="1546539755501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_variables" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$temperature.coverage" NAME="temperature Coverage Results" MODIFIED="1547583921967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$am_i_online.coverage" NAME="am_i_online Coverage Results" MODIFIED="1547660297014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$or.coverage" NAME="or Coverage Results" MODIFIED="1547585912302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$not.coverage" NAME="not Coverage Results" MODIFIED="1547585679629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$while_true.coverage" NAME="while_true Coverage Results" MODIFIED="1547660540792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$input_and_len.coverage" NAME="input_and_len Coverage Results" MODIFIED="1546540363492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_variables" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$popcorn.coverage" NAME="popcorn Coverage Results" MODIFIED="1546539323208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_variables" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$hello_range.coverage" NAME="hello_range Coverage Results" MODIFIED="1547660544125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$quiz_2.coverage" NAME="quiz_2 Coverage Results" MODIFIED="1547584627955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$donate_blood.coverage" NAME="donate_blood Coverage Results" MODIFIED="1547585362192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
   </component>
@@ -45,26 +49,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="34" />
+          <entry key="py" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="32" />
+          <entry key="Python" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="39" />
-          <entry key="py" value="12823" />
-          <entry key="txt" value="86" />
+          <entry key="py" value="13642" />
+          <entry key="txt" value="123" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="591" />
-          <entry key="Python" value="12357" />
+          <entry key="PLAIN_TEXT" value="628" />
+          <entry key="Python" value="13176" />
         </counts>
       </usages-collector>
     </session>
@@ -83,8 +87,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2_if_statements/todays_real_temp_api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="103">
+              <caret line="14" selection-start-line="14" selection-end-line="22" selection-end-column="27" />
               <folding>
                 <element signature="e#146#172#0" expanded="true" />
               </folding>
@@ -93,28 +97,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_if_statements/password_length.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_if_statements/quiz_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2_if_statements/full_time_part_time_student.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="180">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3_loops/am_i_online.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3_loops/while_true.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3_loops/hello_range.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -137,11 +153,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2_if_statements/class_requirements.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+            <state relative-caret-position="225">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -182,7 +198,6 @@
         <option value="$PROJECT_DIR$/1_variables/length_of_school_name.py" />
         <option value="$PROJECT_DIR$/2_if_statements/tmp.py" />
         <option value="$PROJECT_DIR$/2_if_statements/full_time_student.py" />
-        <option value="$PROJECT_DIR$/2_if_statements/full_time_part_time_student.py" />
         <option value="$PROJECT_DIR$/2_if_statements/shipping_price.py" />
         <option value="$PROJECT_DIR$/2_if_statements/shipping_price_format_strings.py" />
         <option value="$PROJECT_DIR$/2_if_statements/temperature.py" />
@@ -195,6 +210,10 @@
         <option value="$PROJECT_DIR$/2_if_statements/todays_real_temp_api.py" />
         <option value="$PROJECT_DIR$/2_if_statements/not.py" />
         <option value="$PROJECT_DIR$/2_if_statements/or.py" />
+        <option value="$PROJECT_DIR$/2_if_statements/full_time_part_time_student.py" />
+        <option value="$PROJECT_DIR$/3_loops/am_i_online.py" />
+        <option value="$PROJECT_DIR$/3_loops/while_true.py" />
+        <option value="$PROJECT_DIR$/3_loops/hello_range.py" />
       </list>
     </option>
   </component>
@@ -205,9 +224,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-5" />
-    <option name="y" value="131" />
-    <option name="width" value="851" />
+    <option name="x" value="196" />
+    <option name="y" value="62" />
+    <option name="width" value="1013" />
     <option name="height" value="667" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -246,12 +265,12 @@
             <path>
               <item name="1150ProgrammingLogicExamples" type="b2602c69:ProjectViewProjectNode" />
               <item name="1150ProgrammingLogicExamples" type="462c0819:PsiDirectoryNode" />
-              <item name="1_variables" type="462c0819:PsiDirectoryNode" />
+              <item name="2_if_statements" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="1150ProgrammingLogicExamples" type="b2602c69:ProjectViewProjectNode" />
               <item name="1150ProgrammingLogicExamples" type="462c0819:PsiDirectoryNode" />
-              <item name="2_if_statements" type="462c0819:PsiDirectoryNode" />
+              <item name="3_loops" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -293,8 +312,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.or">
-    <configuration name="donate_blood" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.hello_range">
+    <configuration name="am_i_online" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1150ProgrammingLogicExamples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -302,12 +321,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_if_statements" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_loops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_if_statements/donate_blood.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_loops/am_i_online.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,7 +335,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="not" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="full_time_part_time_student" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1150ProgrammingLogicExamples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -329,7 +348,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_if_statements/not.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_if_statements/full_time_part_time_student.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hello_range" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="1150ProgrammingLogicExamples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_loops/hello_range.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -360,7 +401,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="quiz" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="while_true" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1150ProgrammingLogicExamples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -368,34 +409,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_if_statements" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_loops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_if_statements/quiz.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="quiz_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="1150ProgrammingLogicExamples" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_if_statements" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_if_statements/quiz_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_loops/while_true.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -405,19 +424,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.donate_blood" />
-      <item itemvalue="Python.quiz" />
-      <item itemvalue="Python.quiz_2" />
-      <item itemvalue="Python.not" />
       <item itemvalue="Python.or" />
+      <item itemvalue="Python.full_time_part_time_student" />
+      <item itemvalue="Python.am_i_online" />
+      <item itemvalue="Python.while_true" />
+      <item itemvalue="Python.hello_range" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hello_range" />
+        <item itemvalue="Python.while_true" />
+        <item itemvalue="Python.am_i_online" />
+        <item itemvalue="Python.full_time_part_time_student" />
         <item itemvalue="Python.or" />
-        <item itemvalue="Python.not" />
-        <item itemvalue="Python.donate_blood" />
-        <item itemvalue="Python.quiz_2" />
-        <item itemvalue="Python.quiz" />
       </list>
     </recent_temporary>
   </component>
@@ -446,13 +465,21 @@
       <option name="project" value="LOCAL" />
       <updated>1547585389065</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="more if, or, not equals examples">
+      <created>1547585944494</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1547585944494</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-5" y="131" width="851" height="667" extended-state="0" />
+    <frame x="196" y="62" width="1013" height="667" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2435105" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20288363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -466,7 +493,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32869565" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3478261" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -484,7 +511,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="examples using if, elif, else" />
     <MESSAGE value="fix blood donor requirements" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix blood donor requirements" />
+    <MESSAGE value="more if, or, not equals examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="more if, or, not equals examples" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/0_hello_world/hello.py">
@@ -641,13 +669,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/full_time_part_time_student.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2_if_statements/shipping_price.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="423">
@@ -669,16 +690,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/todays_real_temp_api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#146#172#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2_if_statements/password_not_equal.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -691,8 +702,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2_if_statements/class_requirements.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        <state relative-caret-position="225">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_if_statements/full_time_part_time_student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_if_statements/todays_real_temp_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="14" selection-start-line="14" selection-end-line="22" selection-end-column="27" />
+          <folding>
+            <element signature="e#146#172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_loops/am_i_online.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_loops/while_true.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_loops/hello_range.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
         </state>
       </provider>
     </entry>
