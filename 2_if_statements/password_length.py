@@ -1,3 +1,7 @@
+"""
+Check to see if a user's password is long enough
+"""
+
 password = input('Please enter the password to check if it is long enough')
 
 password_min_length = 8  # Passwords must be at least 8 characters

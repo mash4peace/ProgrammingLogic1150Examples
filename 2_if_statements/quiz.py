@@ -1,3 +1,8 @@
+"""
+Quiz program. Asks the user a question, and checks if their answer is correct
+"""
+
+
 print('Quiz program!')
 
 answer = input('What is the capital of Wisconsin? ')  # It's Madison
