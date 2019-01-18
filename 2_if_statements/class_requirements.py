@@ -15,4 +15,3 @@ if csharp == 'yes' or java == 'yes':
     print('You can take the Apple Mobile Development class.')
 else:
     print('Sorry, you need to take either C# or Java before you can take Apple Mobile Development')
-

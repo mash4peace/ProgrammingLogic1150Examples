@@ -7,7 +7,4 @@ current_temperature = float(input('Enter the current temperature, in F '))
 
 if current_temperature < 32:
     print('It is below freezing')
-elif current_temperature == 32:
-    print('It is freezing')
-else:
-    print('It is above freezing')
+
