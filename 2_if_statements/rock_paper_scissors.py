@@ -1,11 +1,12 @@
 """ Play rock - paper - scissors against a computer """
 
+# This allows Python to use code to do things like choosing a random option, or random number
 import random
 
 # This line will choose a random string from the choices 'rock', 'paper', or 'scissors'
 computer_choice = random.choice(['rock', 'paper', 'scissors'])
 
-human_choice = input('Enter "rock", "paper" or "scissors": ').lower()
+human_choice = input('Enter "rock", "paper" or "scissors": ')
 
 if human_choice != "rock" and human_choice != 'paper' and human_choice != 'scissors':
     print('You need to enter rock, paper or scissors. Game over.')

@@ -9,9 +9,9 @@ print('Quiz program!')
 
 answer = input('What is the capital of Wisconsin? ')  # It's Madison
 
-if answer == 'Madison':
-    print('Correct!')
-else:
+if answer != 'Madison':
     print('Sorry, the answer is Madison.')
+else:
+    print('Correct!')
 
 

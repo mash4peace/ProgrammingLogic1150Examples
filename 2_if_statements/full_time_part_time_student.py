@@ -14,3 +14,5 @@ elif number_of_credits >= 6:
     print('You are a half-time student')
 else:
     print('You are less than half-time')
+
+
