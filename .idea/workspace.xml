@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c38fbbc-6e27-421f-a728-4e30b1851415" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2_if_statements/check_college.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_if_statements/count_letters_in_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_if_statements/letter_grade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_if_statements/nesting_if.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_if_statements/quiz_2a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_if_statements/quiz_grades_and_letter_grade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_if_statements/star_id_length.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_if_statements/hello_bool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_if_statements/truthy_and_falsey_values.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_if_statements/full_time_part_time_student.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_if_statements/full_time_part_time_student.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_if_statements/password_equal.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_if_statements/password_equal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_if_statements/quiz_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_if_statements/quiz_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_if_statements/rock_paper_scissors.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_if_statements/rock_paper_scissors.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +30,7 @@
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$choose_your_adventure.coverage" NAME="choose_your_adventure Coverage Results" MODIFIED="1547838858690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$quiz_grades_and_letter_grade.coverage" NAME="quiz_grades_and_letter_grade Coverage Results" MODIFIED="1547841790163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$quiz_grades_1.coverage" NAME="quiz_grades_1 Coverage Results" MODIFIED="1547839223089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$truthy_and_falsey_empty_strings.coverage" NAME="truthy_and_falsey_empty_strings Coverage Results" MODIFIED="1547846954916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1546788678372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$password_equal.coverage" NAME="password_equal Coverage Results" MODIFIED="1547842123723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$count_letters_in_name.coverage" NAME="count_letters_in_name Coverage Results" MODIFIED="1547843964957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
@@ -64,26 +56,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="73" />
+          <entry key="py" value="78" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="71" />
+          <entry key="Python" value="76" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="66" />
-          <entry key="py" value="20636" />
+          <entry key="dummy" value="72" />
+          <entry key="py" value="21525" />
           <entry key="txt" value="212" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="744" />
-          <entry key="Python" value="20170" />
+          <entry key="PLAIN_TEXT" value="750" />
+          <entry key="Python" value="21059" />
         </counts>
       </usages-collector>
     </session>
@@ -93,8 +85,56 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2_if_statements/comparison_operators.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+            <state relative-caret-position="482">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2_if_statements/hello_bool.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3_loops/hello_range.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3_loops/am_i_online.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2_if_statements/truthy_and_falsey_values.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2_if_statements/quiz_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -108,47 +148,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2_if_statements/nesting_if.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
               <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_if_statements/full_time_student.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_if_statements/full_time_part_time_student.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_if_statements/quiz_grades_and_letter_grade.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_if_statements/letter_grade.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -167,15 +171,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret lean-forward="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_if_statements/quiz_grades_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -251,6 +246,9 @@
         <option value="$PROJECT_DIR$/2_if_statements/star_id_length.py" />
         <option value="$PROJECT_DIR$/2_if_statements/rock_paper_scissors.py" />
         <option value="$PROJECT_DIR$/2_if_statements/nesting_if.py" />
+        <option value="$PROJECT_DIR$/3_loops/hello_bool.py" />
+        <option value="$PROJECT_DIR$/3_loops/truthy_and_falsey_empty_strings.py" />
+        <option value="$PROJECT_DIR$/3_loops/truthy_and_falsey_values.py" />
       </list>
     </option>
   </component>
@@ -261,8 +259,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
-    <option name="y" value="39" />
+    <option name="x" value="35" />
+    <option name="y" value="95" />
     <option name="width" value="1195" />
     <option name="height" value="861" />
   </component>
@@ -302,7 +300,7 @@
             <path>
               <item name="1150ProgrammingLogicExamples" type="b2602c69:ProjectViewProjectNode" />
               <item name="1150ProgrammingLogicExamples" type="462c0819:PsiDirectoryNode" />
-              <item name="2_if_statements" type="462c0819:PsiDirectoryNode" />
+              <item name="3_loops" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -328,6 +326,9 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2_if_statements" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/2_if_statements" />
     </key>
@@ -344,7 +345,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.count_letters_in_name">
+  <component name="RunManager" selected="Python.truthy_and_falsey_empty_strings">
     <configuration name="check_college" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1150ProgrammingLogicExamples" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -411,28 +412,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="password_equal" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="1150ProgrammingLogicExamples" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_if_statements" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_if_statements/password_equal.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="quiz_2a" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1150ProgrammingLogicExamples" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -455,20 +434,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="truthy_and_falsey_empty_strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="1150ProgrammingLogicExamples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_if_statements/truthy_and_falsey_values.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.password_equal" />
       <item itemvalue="Python.quiz_2a" />
       <item itemvalue="Python.check_college" />
       <item itemvalue="Python.full_time_part_time_student" />
       <item itemvalue="Python.count_letters_in_name" />
+      <item itemvalue="Python.truthy_and_falsey_empty_strings" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.truthy_and_falsey_empty_strings" />
         <item itemvalue="Python.count_letters_in_name" />
         <item itemvalue="Python.full_time_part_time_student" />
         <item itemvalue="Python.check_college" />
         <item itemvalue="Python.quiz_2a" />
-        <item itemvalue="Python.password_equal" />
       </list>
     </recent_temporary>
   </component>
@@ -522,15 +523,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="39" width="1195" height="861" extended-state="0" />
-    <editor active="true" />
+    <frame x="35" y="95" width="1195" height="861" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27059844" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.13654096" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32249674" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -539,7 +539,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.15677321" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.15604681" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -682,27 +682,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/am_i_online.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3_loops/while_true.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/hello_range.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -793,13 +776,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/quiz_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2_if_statements/quiz_2a.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -856,24 +832,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/count_letters_in_name.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2_if_statements/star_id_length.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/comparison_operators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
@@ -888,6 +850,58 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_if_statements/count_letters_in_name.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_if_statements/comparison_operators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_if_statements/quiz_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_if_statements/hello_bool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_loops/hello_range.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_loops/am_i_online.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_if_statements/truthy_and_falsey_values.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>
