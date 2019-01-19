@@ -10,3 +10,4 @@ total_cost = popcorn_cost * bags_purchased
 
 # Display total
 print(total_cost)
+

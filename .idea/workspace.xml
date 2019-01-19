@@ -2,11 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c38fbbc-6e27-421f-a728-4e30b1851415" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3_loops/for_loop_squares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_loops/for_loop_textbooks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_loops/name_squares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_functions/code_without_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_functions/credits_to_graduate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_functions/cube_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_functions/cube_numbers_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_functions/functions_used_already.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_functions/greetings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_functions/hello_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_functions/library_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_functions/name_squares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_functions/python_tutor_coin_counting_variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_functions/python_tutor_greeting_program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_functions/rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_functions/scope_error.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_functions/scope_fixed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_functions/string_repeater.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_functions/uppercase_long_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_functions/uppercase_short_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_functions/valid_credits_function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_loops/hello_range.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_loops/hello_range.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_variables/popcorn.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_variables/popcorn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_loops/name_squares.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_loops/name_squares.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,52 +32,64 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$distance_to_helana.coverage" NAME="distance_to_helana Coverage Results" MODIFIED="1546539500303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_variables" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$rectangle.coverage" NAME="rectangle Coverage Results" MODIFIED="1547924351478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_functions" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$print_string_and_numbers.coverage" NAME="print_string_and_numbers Coverage Results" MODIFIED="1546539435275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_variables" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$greetings.coverage" NAME="greetings Coverage Results" MODIFIED="1547876691566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_functions" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$hello_function.coverage" NAME="hello_function Coverage Results" MODIFIED="1547874585122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_functions" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$hello_for_loop.coverage" NAME="hello_for_loop Coverage Results" MODIFIED="1547861871900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$while_validation.coverage" NAME="while_validation Coverage Results" MODIFIED="1547848604755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$for_loop_squares.coverage" NAME="for_loop_squares Coverage Results" MODIFIED="1547864581530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$library_functions.coverage" NAME="library_functions Coverage Results" MODIFIED="1547923481728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_functions" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$string_repeater.coverage" NAME="string_repeater Coverage Results" MODIFIED="1547926110733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_functions" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$full_time_part_time_student.coverage" NAME="full_time_part_time_student Coverage Results" MODIFIED="1547848330045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$uppercase_short_version.coverage" NAME="uppercase_short_version Coverage Results" MODIFIED="1547920916626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_functions" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$valid_credits_function.coverage" NAME="valid_credits_function Coverage Results" MODIFIED="1547926674195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_functions" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$am_i_online.coverage" NAME="am_i_online Coverage Results" MODIFIED="1547660297014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$not.coverage" NAME="not Coverage Results" MODIFIED="1547585679629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$choose_your_adventure.coverage" NAME="choose_your_adventure Coverage Results" MODIFIED="1547838858690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$while_star_id_valid.coverage" NAME="while_star_id_valid Coverage Results" MODIFIED="1547859897415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$loop_over_name.coverage" NAME="loop_over_name Coverage Results" MODIFIED="1547862440195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$quiz_grades_and_letter_grade.coverage" NAME="quiz_grades_and_letter_grade Coverage Results" MODIFIED="1547841790163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$roll_many_dice_4.coverage" NAME="roll_many_dice_4 Coverage Results" MODIFIED="1547863437110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$name_squares.coverage" NAME="name_squares Coverage Results" MODIFIED="1547928096209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_functions" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$am_i_online_sound_mac.coverage" NAME="am_i_online_sound_mac Coverage Results" MODIFIED="1547859206900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$password_equal.coverage" NAME="password_equal Coverage Results" MODIFIED="1547842123723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$count_letters_in_name.coverage" NAME="count_letters_in_name Coverage Results" MODIFIED="1547843964957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$hello_input.coverage" NAME="hello_input Coverage Results" MODIFIED="1546539553962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_variables" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$todays_real_temp_api.coverage" NAME="todays_real_temp_api Coverage Results" MODIFIED="1547583910879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$quiz_2a.coverage" NAME="quiz_2a Coverage Results" MODIFIED="1547842448289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$cube_numbers_loop.coverage" NAME="cube_numbers_loop Coverage Results" MODIFIED="1547926218053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_functions" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$regex_while_loop_validation.coverage" NAME="regex_while_loop_validation Coverage Results" MODIFIED="1547861785788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$while_dice_roll.coverage" NAME="while_dice_roll Coverage Results" MODIFIED="1547855900812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$range_from_to.coverage" NAME="range_from_to Coverage Results" MODIFIED="1547862784796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$shipping_price_format_strings.coverage" NAME="shipping_price_format_strings Coverage Results" MODIFIED="1547582576118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$quiz.coverage" NAME="quiz Coverage Results" MODIFIED="1547584603041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$while_random_numbers.coverage" NAME="while_random_numbers Coverage Results" MODIFIED="1547855929153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$favorite_food.coverage" NAME="favorite_food Coverage Results" MODIFIED="1546539045834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_variables" />
-    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$hello_for_loop.coverage" NAME="hello_for_loop Coverage Results" MODIFIED="1547861871900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
-    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$while_validation.coverage" NAME="while_validation Coverage Results" MODIFIED="1547848604755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
-    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$for_loop_squares.coverage" NAME="for_loop_squares Coverage Results" MODIFIED="1547864581530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
-    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$full_time_part_time_student.coverage" NAME="full_time_part_time_student Coverage Results" MODIFIED="1547848330045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$roll_many_dice.coverage" NAME="roll_many_dice Coverage Results" MODIFIED="1547863112741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$rock_paper_scissors.coverage" NAME="rock_paper_scissors Coverage Results" MODIFIED="1547841285240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$for_loop_textbooks.coverage" NAME="for_loop_textbooks Coverage Results" MODIFIED="1547864927443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$shipping_price.coverage" NAME="shipping_price Coverage Results" MODIFIED="1547582405708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$roll_many_dice_3.coverage" NAME="roll_many_dice_3 Coverage Results" MODIFIED="1547863357331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$temperature.coverage" NAME="temperature Coverage Results" MODIFIED="1547583921967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
-    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$am_i_online.coverage" NAME="am_i_online Coverage Results" MODIFIED="1547660297014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$or.coverage" NAME="or Coverage Results" MODIFIED="1547585912302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$while_add_numbers.coverage" NAME="while_add_numbers Coverage Results" MODIFIED="1547858234819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
-    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$not.coverage" NAME="not Coverage Results" MODIFIED="1547585679629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$credits_to_graduate.coverage" NAME="credits_to_graduate Coverage Results" MODIFIED="1547926975481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_functions" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$scope_fixed.coverage" NAME="scope_fixed Coverage Results" MODIFIED="1547927208874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_functions" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$hello_range.coverage" NAME="hello_range Coverage Results" MODIFIED="1547863893045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$donate_blood.coverage" NAME="donate_blood Coverage Results" MODIFIED="1547585362192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
-    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$string_formatting.coverage" NAME="string_formatting Coverage Results" MODIFIED="1547858024719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
-    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$choose_your_adventure.coverage" NAME="choose_your_adventure Coverage Results" MODIFIED="1547838858690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
-    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$while_star_id_valid.coverage" NAME="while_star_id_valid Coverage Results" MODIFIED="1547859897415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
-    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$loop_over_name.coverage" NAME="loop_over_name Coverage Results" MODIFIED="1547862440195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
-    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$quiz_grades_and_letter_grade.coverage" NAME="quiz_grades_and_letter_grade Coverage Results" MODIFIED="1547841790163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
-    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$roll_many_dice_4.coverage" NAME="roll_many_dice_4 Coverage Results" MODIFIED="1547863437110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$string_formatting.coverage" NAME="string_formatting Coverage Results" MODIFIED="1547871855060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$cube_numbers.coverage" NAME="cube_numbers Coverage Results" MODIFIED="1547926164329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_functions" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$quiz_grades_1.coverage" NAME="quiz_grades_1 Coverage Results" MODIFIED="1547839223089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
-    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$name_squares.coverage" NAME="name_squares Coverage Results" MODIFIED="1547864328285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$game_over.coverage" NAME="game_over Coverage Results" MODIFIED="1547847535384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
-    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$am_i_online_sound_mac.coverage" NAME="am_i_online_sound_mac Coverage Results" MODIFIED="1547859206900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$uppercase_long_version.coverage" NAME="uppercase_long_version Coverage Results" MODIFIED="1547920690712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_functions" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$truthy_and_falsey_empty_strings.coverage" NAME="truthy_and_falsey_empty_strings Coverage Results" MODIFIED="1547846954916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1546788678372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
-    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$password_equal.coverage" NAME="password_equal Coverage Results" MODIFIED="1547842123723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
-    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$count_letters_in_name.coverage" NAME="count_letters_in_name Coverage Results" MODIFIED="1547843964957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
-    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$hello_input.coverage" NAME="hello_input Coverage Results" MODIFIED="1546539553962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_variables" />
-    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$todays_real_temp_api.coverage" NAME="todays_real_temp_api Coverage Results" MODIFIED="1547583910879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
-    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$quiz_2a.coverage" NAME="quiz_2a Coverage Results" MODIFIED="1547842448289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$input_numbers.coverage" NAME="input_numbers Coverage Results" MODIFIED="1546539755501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_variables" />
-    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$regex_while_loop_validation.coverage" NAME="regex_while_loop_validation Coverage Results" MODIFIED="1547861785788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$while_true.coverage" NAME="while_true Coverage Results" MODIFIED="1547848837895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$input_and_len.coverage" NAME="input_and_len Coverage Results" MODIFIED="1546540363492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_variables" />
-    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$while_dice_roll.coverage" NAME="while_dice_roll Coverage Results" MODIFIED="1547855900812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$popcorn.coverage" NAME="popcorn Coverage Results" MODIFIED="1546539323208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_variables" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$quiz_2.coverage" NAME="quiz_2 Coverage Results" MODIFIED="1547661198810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
-    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$range_from_to.coverage" NAME="range_from_to Coverage Results" MODIFIED="1547862784796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$check_college.coverage" NAME="check_college Coverage Results" MODIFIED="1547842675414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
   </component>
   <component name="FUSProjectUsageTrigger">
@@ -76,27 +104,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="112" />
+          <entry key="py" value="154" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="110" />
+          <entry key="Python" value="152" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="25" />
-          <entry key="dummy" value="112" />
-          <entry key="py" value="28644" />
-          <entry key="txt" value="276" />
+          <entry key="Python Console" value="67" />
+          <entry key="dummy" value="114" />
+          <entry key="py" value="35621" />
+          <entry key="txt" value="307" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="854" />
-          <entry key="Python" value="28203" />
+          <entry key="PLAIN_TEXT" value="887" />
+          <entry key="Python" value="35222" />
         </counts>
       </usages-collector>
     </session>
@@ -104,60 +132,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_loops/loop_over_name.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_loops/range_from_to.py">
+        <entry file="file://$PROJECT_DIR$/1_variables/popcorn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="195">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_loops/roll_many_dice_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_loops/roll_many_dice_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_loops/roll_many_dice_3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_loops/roll_many_dice_4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_loops/hello_range.py">
+        <entry file="file://$PROJECT_DIR$/4_functions/string_repeater.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4_functions/name_squares.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+              <folding>
+                <marker date="1547928184000" expanded="true" signature="57:58" ph="..." />
+                <marker date="1547928184000" expanded="true" signature="57:259" ph="..." />
+                <marker date="1547928184000" expanded="true" signature="57:338" ph="..." />
+                <marker date="1547928184000" expanded="true" signature="373:717" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -165,26 +167,66 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3_loops/name_squares.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+            <state relative-caret-position="113">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="13" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_loops/for_loop_squares.py">
+        <entry file="file://$PROJECT_DIR$/4_functions/cube_numbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3_loops/for_loop_textbooks.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4_functions/cube_numbers_loop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4_functions/valid_credits_function.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <marker date="1547926717000" expanded="true" signature="172:578" ph="..." />
+                <marker date="1547926717000" expanded="true" signature="749:908" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4_functions/credits_to_graduate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4_functions/scope_error.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4_functions/scope_fixed.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -212,29 +254,11 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/3_loops/string_formatting.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/3_loops/am_i_online_sound_windows.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/4_functions/uppercase_long_version.py" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2_if_statements/password_length.py" />
-        <option value="$PROJECT_DIR$/2_if_statements/password_not_equal.py" />
-        <option value="$PROJECT_DIR$/2_if_statements/quiz.py" />
-        <option value="$PROJECT_DIR$/2_if_statements/quiz_3.py" />
-        <option value="$PROJECT_DIR$/2_if_statements/choose_your_adventure.py" />
-        <option value="$PROJECT_DIR$/2_if_statements/quiz_grades_1.py" />
-        <option value="$PROJECT_DIR$/2_if_statements/temperature_if.py" />
-        <option value="$PROJECT_DIR$/2_if_statements/donate_blood.py" />
-        <option value="$PROJECT_DIR$/2_if_statements/class_requirements.py" />
-        <option value="$PROJECT_DIR$/2_if_statements/password_equal.py" />
-        <option value="$PROJECT_DIR$/2_if_statements/quiz_2.py" />
-        <option value="$PROJECT_DIR$/2_if_statements/quiz_2a.py" />
-        <option value="$PROJECT_DIR$/2_if_statements/check_college.py" />
-        <option value="$PROJECT_DIR$/2_if_statements/comparison_operators.py" />
-        <option value="$PROJECT_DIR$/2_if_statements/quiz_grades_and_letter_grade.py" />
-        <option value="$PROJECT_DIR$/2_if_statements/letter_grade.py" />
-        <option value="$PROJECT_DIR$/2_if_statements/count_letters_in_name.py" />
-        <option value="$PROJECT_DIR$/2_if_statements/star_id_length.py" />
-        <option value="$PROJECT_DIR$/2_if_statements/rock_paper_scissors.py" />
         <option value="$PROJECT_DIR$/2_if_statements/nesting_if.py" />
         <option value="$PROJECT_DIR$/3_loops/hello_bool.py" />
         <option value="$PROJECT_DIR$/3_loops/truthy_and_falsey_empty_strings.py" />
@@ -247,7 +271,6 @@
         <option value="$PROJECT_DIR$/3_loops/while_random_numbers.py" />
         <option value="$PROJECT_DIR$/3_loops/while_dice_roll_format.py" />
         <option value="$PROJECT_DIR$/3_loops/while_dice_roll.py" />
-        <option value="$PROJECT_DIR$/3_loops/string_formatting.py" />
         <option value="$PROJECT_DIR$/3_loops/while_add_numbers.py" />
         <option value="$PROJECT_DIR$/3_loops/am_i_online.py" />
         <option value="$PROJECT_DIR$/3_loops/am_i_online_sound_mac.py" />
@@ -261,12 +284,32 @@
         <option value="$PROJECT_DIR$/3_loops/roll_many_dice.py" />
         <option value="$PROJECT_DIR$/3_loops/roll_many_dice_1.py" />
         <option value="$PROJECT_DIR$/3_loops/roll_many_dice_2.py" />
-        <option value="$PROJECT_DIR$/3_loops/roll_many_dice_3.py" />
         <option value="$PROJECT_DIR$/3_loops/roll_many_dice_4.py" />
         <option value="$PROJECT_DIR$/3_loops/hello_range.py" />
-        <option value="$PROJECT_DIR$/3_loops/name_squares.py" />
         <option value="$PROJECT_DIR$/3_loops/for_loop_squares.py" />
         <option value="$PROJECT_DIR$/3_loops/for_loop_textbooks.py" />
+        <option value="$PROJECT_DIR$/3_loops/string_formatting.py" />
+        <option value="$PROJECT_DIR$/3_loops/name_squares.py" />
+        <option value="$PROJECT_DIR$/4_functions/hello_function.py" />
+        <option value="$PROJECT_DIR$/4_functions/functions_used_already.py" />
+        <option value="$PROJECT_DIR$/3_loops/roll_many_dice_3.py" />
+        <option value="$PROJECT_DIR$/4_functions/code_without_functions.py" />
+        <option value="$PROJECT_DIR$/4_functions/uppercase_long_version.py" />
+        <option value="$PROJECT_DIR$/4_functions/uppercase_short_version.py" />
+        <option value="$PROJECT_DIR$/4_functions/coin_counting_variables_for_python_tutor.py" />
+        <option value="$PROJECT_DIR$/4_functions/python_tutor_greeting_program.py" />
+        <option value="$PROJECT_DIR$/4_functions/library_functions.py" />
+        <option value="$PROJECT_DIR$/4_functions/rectangle.py" />
+        <option value="$PROJECT_DIR$/4_functions/greetings.py" />
+        <option value="$PROJECT_DIR$/1_variables/popcorn.py" />
+        <option value="$PROJECT_DIR$/4_functions/string_repeater.py" />
+        <option value="$PROJECT_DIR$/4_functions/cube_numbers.py" />
+        <option value="$PROJECT_DIR$/4_functions/cube_numbers_loop.py" />
+        <option value="$PROJECT_DIR$/4_functions/valid_credits_function.py" />
+        <option value="$PROJECT_DIR$/4_functions/credits_to_graduate.py" />
+        <option value="$PROJECT_DIR$/4_functions/scope_error.py" />
+        <option value="$PROJECT_DIR$/4_functions/scope_fixed.py" />
+        <option value="$PROJECT_DIR$/4_functions/name_squares.py" />
       </list>
     </option>
   </component>
@@ -277,10 +320,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="39" />
-    <option name="y" value="53" />
-    <option name="width" value="872" />
-    <option name="height" value="810" />
+    <option name="x" value="230" />
+    <option name="y" value="295" />
+    <option name="width" value="1087" />
+    <option name="height" value="847" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -318,7 +361,17 @@
             <path>
               <item name="1150ProgrammingLogicExamples" type="b2602c69:ProjectViewProjectNode" />
               <item name="1150ProgrammingLogicExamples" type="462c0819:PsiDirectoryNode" />
+              <item name="1_variables" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1150ProgrammingLogicExamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1150ProgrammingLogicExamples" type="462c0819:PsiDirectoryNode" />
               <item name="3_loops" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1150ProgrammingLogicExamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1150ProgrammingLogicExamples" type="462c0819:PsiDirectoryNode" />
+              <item name="4_functions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -349,6 +402,7 @@
       <recent name="$PROJECT_DIR$/2_if_statements" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/4_functions" />
       <recent name="$PROJECT_DIR$/3_loops" />
       <recent name="$PROJECT_DIR$/2_if_statements" />
     </key>
@@ -365,8 +419,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.for_loop_textbooks">
-    <configuration name="for_loop_squares" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.name_squares">
+    <configuration name="credits_to_graduate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1150ProgrammingLogicExamples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -374,12 +428,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_loops/for_loop_squares.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_functions/credits_to_graduate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -388,7 +442,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="for_loop_textbooks" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cube_numbers_loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1150ProgrammingLogicExamples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -396,34 +450,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_loops/for_loop_textbooks.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hello_range" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="1150ProgrammingLogicExamples" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_loops" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_loops/hello_range.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_functions/cube_numbers_loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -440,12 +472,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_loops/name_squares.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_functions/name_squares.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -454,7 +486,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="roll_many_dice_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="scope_fixed" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1150ProgrammingLogicExamples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -462,12 +494,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_loops/roll_many_dice_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_functions/scope_fixed.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="valid_credits_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="1150ProgrammingLogicExamples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_functions/valid_credits_function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -477,19 +531,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.roll_many_dice_4" />
-      <item itemvalue="Python.hello_range" />
+      <item itemvalue="Python.cube_numbers_loop" />
+      <item itemvalue="Python.valid_credits_function" />
+      <item itemvalue="Python.credits_to_graduate" />
+      <item itemvalue="Python.scope_fixed" />
       <item itemvalue="Python.name_squares" />
-      <item itemvalue="Python.for_loop_squares" />
-      <item itemvalue="Python.for_loop_textbooks" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.for_loop_textbooks" />
-        <item itemvalue="Python.for_loop_squares" />
         <item itemvalue="Python.name_squares" />
-        <item itemvalue="Python.hello_range" />
-        <item itemvalue="Python.roll_many_dice_4" />
+        <item itemvalue="Python.scope_fixed" />
+        <item itemvalue="Python.credits_to_graduate" />
+        <item itemvalue="Python.valid_credits_function" />
+        <item itemvalue="Python.cube_numbers_loop" />
       </list>
     </recent_temporary>
   </component>
@@ -560,19 +614,56 @@
       <option name="project" value="LOCAL" />
       <updated>1547863594982</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="more for loops">
+      <created>1547865057939</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1547865057939</updated>
+    </task>
+    <task id="LOCAL-00010" summary="formatting floats">
+      <created>1547871871670</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1547871871670</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="53" width="872" height="810" extended-state="0" />
+    <frame x="230" y="295" width="1087" height="847" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23855421" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18947369" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4735376" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21456954" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.54456824" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32729805" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32891566" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23855421" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4735376" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -588,7 +679,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -605,173 +696,11 @@
     <MESSAGE value="truthy and falsey" />
     <MESSAGE value="While loop examples" />
     <MESSAGE value="dice rolling, for loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="dice rolling, for loops" />
+    <MESSAGE value="more for loops" />
+    <MESSAGE value="formatting floats" />
+    <option name="LAST_COMMIT_MESSAGE" value="formatting floats" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2_if_statements/shipping_price.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="33" column="50" lean-forward="true" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/todays_real_temp_api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="14" selection-start-line="14" selection-end-line="22" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/choose_your_adventure.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="26" column="83" selection-start-line="26" selection-start-column="83" selection-end-line="26" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/temperature_if.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/temperature_if_elif_else.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/temperature_if.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/donate_blood.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/class_requirements.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/password_equal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/quiz.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/password_length.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="48" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/quiz_2a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/password_not_equal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/check_college.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/quiz_grades_and_letter_grade.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/quiz_grades_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/letter_grade.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/star_id_length.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/rock_paper_scissors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/nesting_if.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/count_letters_in_name.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/comparison_operators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/quiz_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/truthy_and_falsey_values.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2_if_statements/full_time_student.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -800,23 +729,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/while_dice_roll.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/am_i_online.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3_loops/am_i_online_sound_mac.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -830,13 +742,6 @@
     <entry file="file://$PROJECT_DIR$/3_loops/hello_for_loop.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/full_time_part_time_while_validation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3_loops/regex_while_loop_validation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -844,38 +749,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/string_formatting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/while_dice_roll_format.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/while_star_id_valid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3_loops/while_true.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/while_add_numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -896,13 +773,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/loop_over_name.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/3_loops/roll_many_dice_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/range_from_to.py">
+    <entry file="file://$PROJECT_DIR$/3_loops/hello_range.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_loops/for_loop_squares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_loops/string_formatting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_functions/hello_function.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -927,38 +829,231 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/roll_many_dice_4.py">
+    <entry file="file://$PROJECT_DIR$/3_loops/while_add_numbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/hello_range.py">
+    <entry file="file://$PROJECT_DIR$/3_loops/while_dice_roll.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/name_squares.py">
+    <entry file="file://$PROJECT_DIR$/3_loops/while_dice_roll_format.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        <state relative-caret-position="135">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/for_loop_squares.py">
+    <entry file="file://$PROJECT_DIR$/3_loops/while_star_id_valid.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3_loops/for_loop_textbooks.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+        <state relative-caret-position="15">
+          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_loops/range_from_to.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_loops/loop_over_name.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_loops/full_time_part_time_while_validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_functions/code_without_functions.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_functions/uppercase_long_version.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_functions/uppercase_short_version.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_loops/am_i_online.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_functions/library_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_variables/astronauts.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_variables/declaring_variables.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_variables/hello_input.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_functions/rectangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="18" selection-end-column="6" />
+          <folding>
+            <marker date="1547924371000" expanded="true" signature="82:87" ph="..." />
+            <marker date="1547924371000" expanded="true" signature="138:143" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_functions/python_tutor_coin_counting_variables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_functions/python_tutor_greeting_program.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_variables/print_string_and_numbers.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_variables/length_of_string.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_functions/functions_used_already.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_functions/greetings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <marker date="1547925684000" expanded="true" signature="41:46" ph="..." />
+            <marker date="1547925684000" expanded="true" signature="76:99" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_variables/popcorn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_functions/cube_numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_functions/cube_numbers_loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_functions/valid_credits_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <marker date="1547926717000" expanded="true" signature="172:578" ph="..." />
+            <marker date="1547926717000" expanded="true" signature="749:908" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_functions/credits_to_graduate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_functions/scope_error.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_functions/scope_fixed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_functions/string_repeater.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_loops/name_squares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_functions/name_squares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding>
+            <marker date="1547928184000" expanded="true" signature="57:58" ph="..." />
+            <marker date="1547928184000" expanded="true" signature="57:259" ph="..." />
+            <marker date="1547928184000" expanded="true" signature="57:338" ph="..." />
+            <marker date="1547928184000" expanded="true" signature="373:717" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
