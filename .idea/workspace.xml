@@ -2,27 +2,91 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c38fbbc-6e27-421f-a728-4e30b1851415" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4_functions/code_without_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_functions/credits_to_graduate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_functions/cube_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_functions/cube_numbers_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_functions/functions_used_already.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_functions/greetings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_functions/hello_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_functions/library_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_functions/name_squares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_functions/python_tutor_coin_counting_variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_functions/python_tutor_greeting_program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_functions/rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_functions/scope_error.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_functions/scope_fixed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_functions/string_repeater.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_functions/uppercase_long_version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_functions/uppercase_short_version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_functions/valid_credits_function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_variables/popcorn.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_variables/popcorn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_loops/name_squares.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_loops/name_squares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0_hello_world/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_hello_world/hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0_hello_world/hello_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_hello_world/hello_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_variables/astronauts.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_variables/astronauts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_variables/declaring_variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_variables/declaring_variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_variables/distance_to_helana.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_variables/distance_to_helana.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_variables/favorite_food.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_variables/favorite_food.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_variables/hello_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_variables/hello_input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_variables/input_and_len.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_variables/input_and_len.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_variables/input_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_variables/input_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_variables/invoice.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_variables/invoice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_variables/length_of_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_variables/length_of_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_variables/popcorn.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_variables/popcorn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_variables/print_string_and_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_variables/print_string_and_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_variables/school_variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_variables/school_variable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/boolean_conditions.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/boolean_conditions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/check_college.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/check_college.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/choose_your_adventure.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/choose_your_adventure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/class_requirements.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/class_requirements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/comparison_operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/comparison_operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/count_letters_in_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/count_letters_in_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/donate_blood.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/donate_blood.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/full_time_part_time_student.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/full_time_part_time_student.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/full_time_student.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/full_time_student.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/hello_bool.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/hello_bool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/letter_grade.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/letter_grade.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/nesting_if.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/nesting_if.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/password_equal.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/password_equal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/password_length.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/password_length.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/password_not_equal.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/password_not_equal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/quiz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/quiz_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/quiz_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/quiz_2a.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/quiz_2a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/quiz_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/quiz_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/quiz_grades_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/quiz_grades_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/quiz_grades_and_letter_grade.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/quiz_grades_and_letter_grade.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/rock_paper_scissors.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/rock_paper_scissors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/shipping_price.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/shipping_price.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/shipping_price_format_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/shipping_price_format_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/star_id_length.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/star_id_length.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/temperature_if.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/temperature_if.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/temperature_if_elif_else.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/temperature_if_elif_else.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/todays_real_temp_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/todays_real_temp_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_if_statements/truthy_and_falsey_values.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_if_statements/truthy_and_falsey_values.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_loops/am_i_online.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_loops/am_i_online.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_loops/am_i_online_sound_mac.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_loops/am_i_online_sound_mac.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_loops/am_i_online_sound_windows.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_loops/am_i_online_sound_windows.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_loops/for_loop_squares.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_loops/for_loop_squares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_loops/for_loop_textbooks.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_loops/for_loop_textbooks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_loops/full_time_part_time_while_validation.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_loops/full_time_part_time_while_validation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_loops/game_over.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_loops/game_over.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_loops/hello_for_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_loops/hello_for_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_loops/hello_range.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_loops/hello_range.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_loops/loop_over_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_loops/loop_over_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_loops/name_squares.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_loops/name_squares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_loops/range_from_to.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_loops/range_from_to.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_loops/regex_while_loop_validation.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_loops/regex_while_loop_validation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_loops/roll_many_dice_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_loops/roll_many_dice_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_loops/roll_many_dice_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_loops/roll_many_dice_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_loops/roll_many_dice_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_loops/roll_many_dice_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_loops/roll_many_dice_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_loops/roll_many_dice_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_loops/string_formatting.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_loops/string_formatting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_loops/while_add_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_loops/while_add_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_loops/while_dice_roll.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_loops/while_dice_roll.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_loops/while_dice_roll_format.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_loops/while_dice_roll_format.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_loops/while_star_id_valid.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_loops/while_star_id_valid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_loops/while_true.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_loops/while_true.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_functions/code_without_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_functions/code_without_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_functions/credits_to_graduate.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_functions/credits_to_graduate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_functions/cube_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_functions/cube_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_functions/cube_numbers_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_functions/cube_numbers_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_functions/functions_used_already.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_functions/functions_used_already.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_functions/greetings.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_functions/greetings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_functions/hello_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_functions/hello_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_functions/library_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_functions/library_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_functions/name_squares.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_functions/name_squares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_functions/python_tutor_coin_counting_variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_functions/python_tutor_coin_counting_variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_functions/python_tutor_greeting_program.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_functions/python_tutor_greeting_program.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_functions/rectangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_functions/rectangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_functions/scope_error.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_functions/scope_error.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_functions/scope_fixed.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_functions/scope_fixed.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_functions/string_repeater.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_functions/string_repeater.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_functions/uppercase_long_version.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_functions/uppercase_long_version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_functions/uppercase_short_version.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_functions/uppercase_short_version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_functions/valid_credits_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_functions/valid_credits_function.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,13 +168,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="154" />
+          <entry key="py" value="155" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="152" />
+          <entry key="Python" value="153" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -118,12 +182,12 @@
           <entry key="Python Console" value="67" />
           <entry key="dummy" value="114" />
           <entry key="py" value="35621" />
-          <entry key="txt" value="307" />
+          <entry key="txt" value="325" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="887" />
+          <entry key="PLAIN_TEXT" value="905" />
           <entry key="Python" value="35222" />
         </counts>
       </usages-collector>
@@ -132,28 +196,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_variables/popcorn.py">
+        <entry file="file://$PROJECT_DIR$/5_functions/string_repeater.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4_functions/string_repeater.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4_functions/name_squares.py">
+        <entry file="file://$PROJECT_DIR$/5_functions/name_squares.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
               <folding>
                 <marker date="1547928184000" expanded="true" signature="57:58" ph="..." />
                 <marker date="1547928184000" expanded="true" signature="57:259" ph="..." />
@@ -164,38 +219,50 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4_loops/am_i_online.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_loops/name_squares.py">
+        <entry file="file://$PROJECT_DIR$/4_loops/name_squares.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="113">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="13" selection-end-column="15" />
+              <caret line="12" selection-start-line="12" selection-end-line="13" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4_functions/cube_numbers.py">
+        <entry file="file://$PROJECT_DIR$/5_functions/cube_numbers.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4_functions/cube_numbers_loop.py">
+        <entry file="file://$PROJECT_DIR$/5_functions/cube_numbers_loop.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-end-line="17" />
+              <caret line="14" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4_functions/valid_credits_function.py">
+        <entry file="file://$PROJECT_DIR$/5_functions/valid_credits_function.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="570">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
               <folding>
                 <marker date="1547926717000" expanded="true" signature="172:578" ph="..." />
                 <marker date="1547926717000" expanded="true" signature="749:908" ph="..." />
@@ -205,7 +272,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4_functions/credits_to_graduate.py">
+        <entry file="file://$PROJECT_DIR$/5_functions/credits_to_graduate.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
@@ -214,19 +281,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4_functions/scope_error.py">
+        <entry file="file://$PROJECT_DIR$/5_functions/scope_error.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4_functions/scope_fixed.py">
+        <entry file="file://$PROJECT_DIR$/5_functions/scope_fixed.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -252,9 +319,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/3_loops/string_formatting.py" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/3_loops/am_i_online_sound_windows.py" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/4_functions/uppercase_long_version.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/4_loops/string_formatting.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/4_loops/am_i_online_sound_windows.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/5_functions/uppercase_long_version.py" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -357,21 +424,6 @@
             <path>
               <item name="1150ProgrammingLogicExamples" type="b2602c69:ProjectViewProjectNode" />
               <item name="1150ProgrammingLogicExamples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1150ProgrammingLogicExamples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1150ProgrammingLogicExamples" type="462c0819:PsiDirectoryNode" />
-              <item name="1_variables" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1150ProgrammingLogicExamples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1150ProgrammingLogicExamples" type="462c0819:PsiDirectoryNode" />
-              <item name="3_loops" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1150ProgrammingLogicExamples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1150ProgrammingLogicExamples" type="462c0819:PsiDirectoryNode" />
-              <item name="4_functions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -628,19 +680,25 @@
       <option name="project" value="LOCAL" />
       <updated>1547871871670</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="functions examples">
+      <created>1547933241522</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1547933241522</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="230" y="295" width="1087" height="847" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18947369" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18947369" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21456954" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21456954" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -698,38 +756,39 @@
     <MESSAGE value="dice rolling, for loops" />
     <MESSAGE value="more for loops" />
     <MESSAGE value="formatting floats" />
-    <option name="LAST_COMMIT_MESSAGE" value="formatting floats" />
+    <MESSAGE value="functions examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="functions examples" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2_if_statements/full_time_student.py">
+    <entry file="file://$PROJECT_DIR$/3_if_statements/full_time_student.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="3" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/hello_bool.py">
+    <entry file="file://$PROJECT_DIR$/3_if_statements/hello_bool.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/boolean_conditions.py">
+    <entry file="file://$PROJECT_DIR$/3_if_statements/boolean_conditions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/full_time_part_time_student.py">
+    <entry file="file://$PROJECT_DIR$/3_if_statements/full_time_part_time_student.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/am_i_online_sound_mac.py">
+    <entry file="file://$PROJECT_DIR$/4_loops/am_i_online_sound_mac.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
@@ -739,24 +798,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/hello_for_loop.py">
+    <entry file="file://$PROJECT_DIR$/4_loops/hello_for_loop.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/regex_while_loop_validation.py">
+    <entry file="file://$PROJECT_DIR$/4_loops/regex_while_loop_validation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/while_true.py">
+    <entry file="file://$PROJECT_DIR$/4_loops/while_true.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/am_i_online_sound_windows.py">
+    <entry file="file://$PROJECT_DIR$/4_loops/am_i_online_sound_windows.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
           <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="40" />
@@ -766,169 +825,159 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/game_over.py">
+    <entry file="file://$PROJECT_DIR$/4_loops/game_over.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/roll_many_dice_4.py">
+    <entry file="file://$PROJECT_DIR$/4_loops/roll_many_dice_4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/hello_range.py">
+    <entry file="file://$PROJECT_DIR$/4_loops/hello_range.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/for_loop_squares.py">
+    <entry file="file://$PROJECT_DIR$/4_loops/for_loop_squares.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/string_formatting.py">
+    <entry file="file://$PROJECT_DIR$/4_loops/string_formatting.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_functions/hello_function.py">
+    <entry file="file://$PROJECT_DIR$/5_functions/hello_function.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/roll_many_dice_1.py">
+    <entry file="file://$PROJECT_DIR$/4_loops/roll_many_dice_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/roll_many_dice_2.py">
+    <entry file="file://$PROJECT_DIR$/4_loops/roll_many_dice_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/roll_many_dice_3.py">
+    <entry file="file://$PROJECT_DIR$/4_loops/roll_many_dice_3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/while_add_numbers.py">
+    <entry file="file://$PROJECT_DIR$/4_loops/while_add_numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/while_dice_roll.py">
+    <entry file="file://$PROJECT_DIR$/4_loops/while_dice_roll.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/while_dice_roll_format.py">
+    <entry file="file://$PROJECT_DIR$/4_loops/while_dice_roll_format.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/while_star_id_valid.py">
+    <entry file="file://$PROJECT_DIR$/4_loops/while_star_id_valid.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/for_loop_textbooks.py">
+    <entry file="file://$PROJECT_DIR$/4_loops/for_loop_textbooks.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/range_from_to.py">
+    <entry file="file://$PROJECT_DIR$/4_loops/range_from_to.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/loop_over_name.py">
+    <entry file="file://$PROJECT_DIR$/4_loops/loop_over_name.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/full_time_part_time_while_validation.py">
+    <entry file="file://$PROJECT_DIR$/4_loops/full_time_part_time_while_validation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_functions/code_without_functions.py">
+    <entry file="file://$PROJECT_DIR$/5_functions/code_without_functions.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_functions/uppercase_long_version.py">
+    <entry file="file://$PROJECT_DIR$/5_functions/uppercase_long_version.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_functions/uppercase_short_version.py">
+    <entry file="file://$PROJECT_DIR$/5_functions/uppercase_short_version.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/am_i_online.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4_functions/library_functions.py">
+    <entry file="file://$PROJECT_DIR$/5_functions/library_functions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="329">
           <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_variables/astronauts.py">
+    <entry file="file://$PROJECT_DIR$/2_variables/astronauts.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_variables/declaring_variables.py">
+    <entry file="file://$PROJECT_DIR$/2_variables/declaring_variables.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_variables/hello_input.py">
+    <entry file="file://$PROJECT_DIR$/2_variables/hello_input.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_functions/rectangle.py">
+    <entry file="file://$PROJECT_DIR$/5_functions/rectangle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="18" selection-end-column="6" />
@@ -939,34 +988,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_functions/python_tutor_coin_counting_variables.py">
+    <entry file="file://$PROJECT_DIR$/5_functions/python_tutor_coin_counting_variables.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_functions/python_tutor_greeting_program.py">
+    <entry file="file://$PROJECT_DIR$/5_functions/python_tutor_greeting_program.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" selection-start-line="5" selection-end-line="16" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_variables/print_string_and_numbers.py">
+    <entry file="file://$PROJECT_DIR$/2_variables/print_string_and_numbers.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_variables/length_of_string.py">
+    <entry file="file://$PROJECT_DIR$/2_variables/length_of_string.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_functions/functions_used_already.py">
+    <entry file="file://$PROJECT_DIR$/5_functions/functions_used_already.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_functions/greetings.py">
+    <entry file="file://$PROJECT_DIR$/5_functions/greetings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
@@ -977,31 +1026,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_variables/popcorn.py">
+    <entry file="file://$PROJECT_DIR$/2_variables/popcorn.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_functions/cube_numbers.py">
+    <entry file="file://$PROJECT_DIR$/5_functions/cube_numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_functions/cube_numbers_loop.py">
+    <entry file="file://$PROJECT_DIR$/5_functions/cube_numbers_loop.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-end-line="17" />
+          <caret line="14" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_functions/valid_credits_function.py">
+    <entry file="file://$PROJECT_DIR$/5_functions/valid_credits_function.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
           <folding>
             <marker date="1547926717000" expanded="true" signature="172:578" ph="..." />
             <marker date="1547926717000" expanded="true" signature="749:908" ph="..." />
@@ -1009,50 +1058,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_functions/credits_to_graduate.py">
+    <entry file="file://$PROJECT_DIR$/5_functions/credits_to_graduate.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_functions/scope_error.py">
+    <entry file="file://$PROJECT_DIR$/5_functions/scope_error.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_functions/scope_fixed.py">
+    <entry file="file://$PROJECT_DIR$/5_functions/scope_fixed.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_functions/string_repeater.py">
+    <entry file="file://$PROJECT_DIR$/5_functions/string_repeater.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/name_squares.py">
+    <entry file="file://$PROJECT_DIR$/4_loops/name_squares.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="113">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="13" selection-end-column="15" />
+          <caret line="12" selection-start-line="12" selection-end-line="13" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_functions/name_squares.py">
+    <entry file="file://$PROJECT_DIR$/5_functions/name_squares.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
           <folding>
             <marker date="1547928184000" expanded="true" signature="57:58" ph="..." />
             <marker date="1547928184000" expanded="true" signature="57:259" ph="..." />
             <marker date="1547928184000" expanded="true" signature="57:338" ph="..." />
             <marker date="1547928184000" expanded="true" signature="373:717" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_loops/am_i_online.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
