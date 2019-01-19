@@ -2,21 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c38fbbc-6e27-421f-a728-4e30b1851415" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/admin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_if_statements/boolean_conditions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_loops/am_i_online_sound_mac.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_loops/am_i_online_sound_windows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_loops/full_time_part_time_while_validation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_loops/game_over.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_loops/regex_while_loop_validation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_loops/string_formatting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_loops/while_add_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_loops/while_dice_roll.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_loops/while_dice_roll_format.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_loops/while_star_id_valid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_loops/hello_for_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_loops/loop_over_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_loops/range_from_to.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_loops/roll_many_dice_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_loops/roll_many_dice_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_loops/roll_many_dice_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_loops/roll_many_dice_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_if_statements/full_time_part_time_student.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_if_statements/full_time_part_time_student.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_loops/am_i_online.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_loops/am_i_online.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_loops/game_over.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_loops/game_over.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,10 +25,13 @@
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$quiz.coverage" NAME="quiz Coverage Results" MODIFIED="1547584603041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$while_random_numbers.coverage" NAME="while_random_numbers Coverage Results" MODIFIED="1547855929153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$favorite_food.coverage" NAME="favorite_food Coverage Results" MODIFIED="1546539045834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_variables" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$hello_for_loop.coverage" NAME="hello_for_loop Coverage Results" MODIFIED="1547861871900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$while_validation.coverage" NAME="while_validation Coverage Results" MODIFIED="1547848604755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$full_time_part_time_student.coverage" NAME="full_time_part_time_student Coverage Results" MODIFIED="1547848330045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$roll_many_dice.coverage" NAME="roll_many_dice Coverage Results" MODIFIED="1547863112741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$rock_paper_scissors.coverage" NAME="rock_paper_scissors Coverage Results" MODIFIED="1547841285240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$shipping_price.coverage" NAME="shipping_price Coverage Results" MODIFIED="1547582405708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$roll_many_dice_3.coverage" NAME="roll_many_dice_3 Coverage Results" MODIFIED="1547863357331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$temperature.coverage" NAME="temperature Coverage Results" MODIFIED="1547583921967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$am_i_online.coverage" NAME="am_i_online Coverage Results" MODIFIED="1547660297014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$or.coverage" NAME="or Coverage Results" MODIFIED="1547585912302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
@@ -45,7 +42,9 @@
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$string_formatting.coverage" NAME="string_formatting Coverage Results" MODIFIED="1547858024719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$choose_your_adventure.coverage" NAME="choose_your_adventure Coverage Results" MODIFIED="1547838858690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$while_star_id_valid.coverage" NAME="while_star_id_valid Coverage Results" MODIFIED="1547859897415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$loop_over_name.coverage" NAME="loop_over_name Coverage Results" MODIFIED="1547862440195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$quiz_grades_and_letter_grade.coverage" NAME="quiz_grades_and_letter_grade Coverage Results" MODIFIED="1547841790163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$roll_many_dice_4.coverage" NAME="roll_many_dice_4 Coverage Results" MODIFIED="1547863437110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$quiz_grades_1.coverage" NAME="quiz_grades_1 Coverage Results" MODIFIED="1547839223089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$game_over.coverage" NAME="game_over Coverage Results" MODIFIED="1547847535384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$am_i_online_sound_mac.coverage" NAME="am_i_online_sound_mac Coverage Results" MODIFIED="1547859206900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
@@ -63,6 +62,7 @@
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$while_dice_roll.coverage" NAME="while_dice_roll Coverage Results" MODIFIED="1547855900812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$popcorn.coverage" NAME="popcorn Coverage Results" MODIFIED="1546539323208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_variables" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$quiz_2.coverage" NAME="quiz_2 Coverage Results" MODIFIED="1547661198810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$range_from_to.coverage" NAME="range_from_to Coverage Results" MODIFIED="1547862784796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$check_college.coverage" NAME="check_college Coverage Results" MODIFIED="1547842675414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
   </component>
   <component name="FUSProjectUsageTrigger">
@@ -77,27 +77,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="93" />
+          <entry key="py" value="108" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="91" />
+          <entry key="Python" value="106" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="25" />
-          <entry key="dummy" value="110" />
-          <entry key="py" value="26490" />
-          <entry key="txt" value="229" />
+          <entry key="dummy" value="112" />
+          <entry key="py" value="27482" />
+          <entry key="txt" value="252" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="805" />
-          <entry key="Python" value="26049" />
+          <entry key="PLAIN_TEXT" value="830" />
+          <entry key="Python" value="27041" />
         </counts>
       </usages-collector>
     </session>
@@ -123,40 +123,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_loops/while_dice_roll_format.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_loops/while_dice_roll.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_loops/am_i_online.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3_loops/am_i_online_sound_windows.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="263">
+              <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="40" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -165,7 +135,48 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_loops/while_star_id_valid.py">
+        <entry file="file://$PROJECT_DIR$/3_loops/game_over.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3_loops/loop_over_name.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3_loops/range_from_to.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3_loops/roll_many_dice_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3_loops/roll_many_dice_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3_loops/roll_many_dice_3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
@@ -174,31 +185,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3_loops/regex_while_loop_validation.py">
+        <entry file="file://$PROJECT_DIR$/3_loops/roll_many_dice_4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_loops/am_i_online_sound_mac.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_loops/string_formatting.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -230,14 +220,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2_if_statements/tmp.py" />
-        <option value="$PROJECT_DIR$/2_if_statements/full_time_student.py" />
-        <option value="$PROJECT_DIR$/2_if_statements/shipping_price.py" />
-        <option value="$PROJECT_DIR$/2_if_statements/shipping_price_format_strings.py" />
-        <option value="$PROJECT_DIR$/2_if_statements/temperature.py" />
-        <option value="$PROJECT_DIR$/2_if_statements/temperature_if_elif_else.py" />
-        <option value="$PROJECT_DIR$/2_if_statements/is_minneapolis_college.py" />
-        <option value="$PROJECT_DIR$/2_if_statements/todays_real_temp_api.py" />
         <option value="$PROJECT_DIR$/2_if_statements/not.py" />
         <option value="$PROJECT_DIR$/2_if_statements/or.py" />
         <option value="$PROJECT_DIR$/3_loops/while_true.py" />
@@ -266,7 +248,6 @@
         <option value="$PROJECT_DIR$/3_loops/truthy_and_falsey_empty_strings.py" />
         <option value="$PROJECT_DIR$/3_loops/truthy_and_falsey_values.py" />
         <option value="$PROJECT_DIR$/2_if_statements/game_over.py" />
-        <option value="$PROJECT_DIR$/3_loops/game_over.py" />
         <option value="$PROJECT_DIR$/3_loops/while_validation.py" />
         <option value="$PROJECT_DIR$/2_if_statements/boolean_conditions.py" />
         <option value="$PROJECT_DIR$/2_if_statements/full_time_part_time_student.py" />
@@ -281,6 +262,15 @@
         <option value="$PROJECT_DIR$/3_loops/am_i_online_sound_windows.py" />
         <option value="$PROJECT_DIR$/3_loops/while_star_id_valid.py" />
         <option value="$PROJECT_DIR$/3_loops/regex_while_loop_validation.py" />
+        <option value="$PROJECT_DIR$/3_loops/hello_for_loop.py" />
+        <option value="$PROJECT_DIR$/3_loops/game_over.py" />
+        <option value="$PROJECT_DIR$/3_loops/loop_over_name.py" />
+        <option value="$PROJECT_DIR$/3_loops/range_from_to.py" />
+        <option value="$PROJECT_DIR$/3_loops/roll_many_dice.py" />
+        <option value="$PROJECT_DIR$/3_loops/roll_many_dice_1.py" />
+        <option value="$PROJECT_DIR$/3_loops/roll_many_dice_2.py" />
+        <option value="$PROJECT_DIR$/3_loops/roll_many_dice_3.py" />
+        <option value="$PROJECT_DIR$/3_loops/roll_many_dice_4.py" />
       </list>
     </option>
   </component>
@@ -379,8 +369,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.regex_while_loop_validation">
-    <configuration name="am_i_online_sound_mac" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.roll_many_dice_4">
+    <configuration name="loop_over_name" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1150ProgrammingLogicExamples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -393,7 +383,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_loops/am_i_online_sound_mac.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_loops/loop_over_name.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -402,7 +392,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="regex_while_loop_validation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="range_from_to" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1150ProgrammingLogicExamples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -415,7 +405,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_loops/regex_while_loop_validation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_loops/range_from_to.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -424,7 +414,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string_formatting" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="roll_many_dice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1150ProgrammingLogicExamples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -437,7 +427,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_loops/string_formatting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_loops/roll_many_dice_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -446,7 +436,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="while_add_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="roll_many_dice_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1150ProgrammingLogicExamples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -459,7 +449,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_loops/while_add_numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_loops/roll_many_dice_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -468,7 +458,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="while_star_id_valid" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="roll_many_dice_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1150ProgrammingLogicExamples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -481,7 +471,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_loops/while_star_id_valid.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_loops/roll_many_dice_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -491,19 +481,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.while_add_numbers" />
-      <item itemvalue="Python.string_formatting" />
-      <item itemvalue="Python.am_i_online_sound_mac" />
-      <item itemvalue="Python.while_star_id_valid" />
-      <item itemvalue="Python.regex_while_loop_validation" />
+      <item itemvalue="Python.loop_over_name" />
+      <item itemvalue="Python.range_from_to" />
+      <item itemvalue="Python.roll_many_dice" />
+      <item itemvalue="Python.roll_many_dice_3" />
+      <item itemvalue="Python.roll_many_dice_4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.regex_while_loop_validation" />
-        <item itemvalue="Python.while_star_id_valid" />
-        <item itemvalue="Python.am_i_online_sound_mac" />
-        <item itemvalue="Python.while_add_numbers" />
-        <item itemvalue="Python.string_formatting" />
+        <item itemvalue="Python.roll_many_dice_4" />
+        <item itemvalue="Python.roll_many_dice_3" />
+        <item itemvalue="Python.roll_many_dice" />
+        <item itemvalue="Python.range_from_to" />
+        <item itemvalue="Python.loop_over_name" />
       </list>
     </recent_temporary>
   </component>
@@ -560,19 +550,25 @@
       <option name="project" value="LOCAL" />
       <updated>1547847240610</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="While loop examples">
+      <created>1547861831235</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1547861831235</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="39" y="53" width="872" height="810" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23855421" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23855421" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2632312" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4735376" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -603,58 +599,10 @@
     <MESSAGE value="loop examples" />
     <MESSAGE value="fix &quot; and ', add an extra version of the quiz program" />
     <MESSAGE value="truthy and falsey" />
-    <option name="LAST_COMMIT_MESSAGE" value="truthy and falsey" />
+    <MESSAGE value="While loop examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="While loop examples" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1_variables/invoice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="59" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_variables/input_and_len.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_variables/length_of_string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_variables/popcorn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/tmp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="51" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_variables/declaring_variables.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_if_statements/is_minneapolis_college.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2_if_statements/not.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -833,24 +781,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/hello_range.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2_if_statements/truthy_and_falsey_values.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/game_over.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -882,41 +816,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/full_time_part_time_while_validation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/while_true.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/string_formatting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/while_add_numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/while_dice_roll_format.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3_loops/while_dice_roll.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -944,13 +843,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/am_i_online_sound_windows.py">
+    <entry file="file://$PROJECT_DIR$/3_loops/hello_for_loop.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_loops/full_time_part_time_while_validation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_loops/regex_while_loop_validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_loops/hello_range.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_loops/string_formatting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_loops/while_dice_roll_format.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -961,10 +888,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_loops/regex_while_loop_validation.py">
+    <entry file="file://$PROJECT_DIR$/3_loops/while_true.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_loops/while_add_numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_loops/am_i_online_sound_windows.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_loops/game_over.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_loops/loop_over_name.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_loops/range_from_to.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_loops/roll_many_dice_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_loops/roll_many_dice_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_loops/roll_many_dice_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_loops/roll_many_dice_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>

@@ -1,6 +1,5 @@
 import random
 
-
 game_over = False
 
 while not game_over:
@@ -17,7 +16,6 @@ while not game_over:
         game_over = True
     else:
         print('You guessed right! Try again...')
-
 
 print('Thanks for playing!')
 
