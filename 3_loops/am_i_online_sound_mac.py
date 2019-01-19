@@ -1,5 +1,6 @@
 from urllib import request
 from time import sleep
+import os
 
 # A URL for a website that we expect to be available, if we are online
 url = 'https://www.google.com'
@@ -12,6 +13,8 @@ while True:
         # Open the URL. This will error/fail if you are not online.
         request.urlopen(url).read()
         print('You seem to be online')
+        # Shout out to the user! This only works on Macs
+        os.system('say hey user, you are online')
     except:
         print('You are NOT online')
 
