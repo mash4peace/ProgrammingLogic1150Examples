@@ -6,6 +6,17 @@ total = 1234
 print(f'The total is {total}')
 
 
+average = 1234 / 7
+print(f'The average is {average}')  # The average is 176.28571428571428
+
+# Put :.2f after a float variable to display the number to 2 decimal places
+print(f'The average is {average:.2f}')  # The average is 176.29
+
+# Put :.5f after a float variable to display the number to 5 decimal places
+print(f'The average is {average:.6f}')  # The average is 176.285714
+
+
+
 weather = 'snow'
 temperature = 29.5
 day_of_month = 20
