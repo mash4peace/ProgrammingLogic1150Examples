@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>For this project, you'll use this API</p>
+<ul>
+<li>Random Taco API&nbsp;&nbsp;<a href="http://taco-randomizer.herokuapp.com/random/?full_taco=true">http://taco-randomizer.herokuapp.com/random/?full_taco=true</a>&nbsp;</li>
+</ul>
+<p>and these libraries</p>
+<ul>
+<li>requests</li>
+<li>python-docx</li>
+<li>pillow</li>
+</ul>
+<p>To create a random taco recipe book. Use Python for all of these tasks.</p>
+<p>Your first program should: (25 points)</p>
+<p>Search Unsplash for a taco image. (for example <a href="https://unsplash.com/photos/JiRSy0GfqPA">https://unsplash.com/photos/JiRSy0GfqPA</a>) Save the image on your computer.</p>
+<ul>
+<li>The downloaded image is very large. Use pillow resize the image to a smaller size, perhaps 800px wide. Make sure you preserve the aspect ratio.</li>
+<li>Write the text "Random Taco Cookbook" on the image.</li>
+<li>Save to a file.&nbsp;</li>
+</ul>
+<p>Your second program should: (75 points)</p>
+<ul>
+<li>Use requests to download three random tacos from the random taco API. Save the data for each of three tacos in your program. Notice that each recipe is divided into five sections for base_layer, seasoning, mixin, condiment, and&nbsp;shell.</li>
+<li>Use Python to create a Word document.&nbsp;
+<ul>
+<li>On the first page, insert the text "Random Taco Cookbook"</li>
+<li>On the first page, add the resized taco image</li>
+<li>On the first page, write the name of the image author</li>
+<li>On the first page, write a link to the random taco API</li>
+<li>On the first page, write your own name.</li>
+<li>On the second page, write the first taco recipe. Use a larger font for the heading for each of the sections.</li>
+<li>On the third page, repeat for the next recipe.</li>
+<li>On the fourth page, repeat for the third recipe.</li>
+</ul>
+</li>
+<li>Save your word document.</li>
+</ul>
+<p>To upload: your Python code, and an example word document created with your program.&nbsp;</p>
+<p><strong>Extra credit + 15 points:</strong> register for the Unsplash API <a href="https://unsplash.com/developers">https://unsplash.com/developers</a> and use this to download an image for your book.&nbsp; You'll need to read documentation and figure out how to use requests to search, and then how to download an image.&nbsp; If you do this, you'll only need to write one program to create the entire recipe book with image, and text.&nbsp;</p>
+</body>
+</html>
